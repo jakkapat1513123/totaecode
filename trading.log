@@ -1,0 +1,85 @@
+2025-07-18 10:38:32,462 - INFO - โหลด 0 ข้อมูลจาก SQLite
+2025-07-18 10:38:53,939 - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-07-18 10:38:53,940 - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000001DCA00163E0>, 84785.031)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000001DCA002C880>
+2025-07-18 10:40:59,188 - INFO - โหลด 0 ข้อมูลจาก SQLite
+2025-07-18 10:41:20,379 - WARNING - binance requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-07-18 10:41:20,380 - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000002767277F160>, 84931.468)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000002767258A560>
+2025-07-19 00:30:46,013 - INFO - โหลด 0 ข้อมูลจาก SQLite
+2025-07-19 00:30:47,768 - INFO - ดึงคู่ USDT ทั้งหมด: 595 เหรียญ
+2025-07-19 00:30:47,769 - INFO - ดึงคู่ USDT ทั้งหมด: 595 เหรียญ
+2025-07-19 00:30:47,779 - INFO - อัพเดท MADRL symbols: 50 agents
+2025-07-19 00:30:47,925 - INFO - โหลดข้อมูลย้อนหลัง 5 ปีสำหรับ BCC/USDT
+2025-07-19 00:30:48,131 - INFO - โหลดข้อมูลย้อนหลัง 5 ปีสำหรับ VEN/USDT
+2025-07-19 00:30:48,262 - INFO - โหลดข้อมูลย้อนหลัง 5 ปีสำหรับ BCHABC/USDT
+2025-07-19 00:30:48,391 - INFO - โหลดข้อมูลย้อนหลัง 5 ปีสำหรับ BSV/USDT
+2025-07-19 00:30:48,536 - INFO - โหลดข้อมูลย้อนหลัง 5 ปีสำหรับ USDS/USDT
+2025-07-19 00:30:48,692 - INFO - ระบบหยุดรอคำสั่ง 'r' เพื่อเริ่ม หรือ 'q' เพื่อออก
+2025-07-19 00:30:49,696 - INFO - ระบบหยุดรอคำสั่ง 'r' เพื่อเริ่ม หรือ 'q' เพื่อออก
+2025-07-19 00:30:50,285 - INFO - ระบบเริ่มทำงาน (กด 'r')
+2025-07-19 00:30:50,764 - INFO - บันทึก checkpoint ที่ step 0
+2025-07-19 00:30:50,808 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:30:50,809 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:30:50,809 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:30:50,815 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:30:53,010 - INFO - ปรับน้ำหนักโมเดล: {'qnt_w': np.float64(0.3745401188473625), 'evogan_w': np.float64(0.9507143064099162), 'tft_w': np.float64(0.7319939418114051), 'gnn_w': np.float64(0.5986584841970366), 'madrl_w': np.float64(0.15601864044243652)}
+2025-07-19 00:31:53,028 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:31:53,028 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:31:53,032 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:32:53,039 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:32:53,039 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:32:53,043 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:33:53,057 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:33:53,057 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:33:53,068 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:34:53,103 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:34:53,103 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:34:53,116 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:35:53,112 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:35:53,112 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:35:53,115 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:36:53,108 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:36:53,108 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:36:53,112 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:37:53,114 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:37:53,114 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:37:53,127 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:38:53,123 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:38:53,123 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:38:53,134 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:39:53,139 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:39:53,139 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:39:53,143 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:40:53,139 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:40:53,139 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:40:53,150 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:41:53,167 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:41:53,167 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:41:53,177 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:42:53,179 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:42:53,179 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:42:53,190 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:43:53,193 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:43:53,193 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:43:53,203 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:44:53,208 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:44:53,208 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:44:53,218 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:45:53,224 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:45:53,224 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:45:53,235 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:46:53,237 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:46:53,237 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:46:53,248 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:47:53,258 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:47:53,258 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:47:53,270 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:48:53,257 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:48:53,257 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:48:53,267 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
+2025-07-19 00:49:53,267 - INFO - อัพเดท MADRL symbols: 0 agents
+2025-07-19 00:49:53,267 - INFO - เลือก 0 เหรียญ: []...
+2025-07-19 00:49:53,278 - INFO - KPI อัพเดท: กำไรวันนี้=0.00, กำไรรวม=0.00
